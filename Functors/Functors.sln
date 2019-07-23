@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Functors", "Functors\Functors.vcxproj", "{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Debug|x64.ActiveCfg = Debug|x64
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Debug|x64.Build.0 = Debug|x64
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Debug|x86.Build.0 = Debug|Win32
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Release|x64.ActiveCfg = Release|x64
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Release|x64.Build.0 = Release|x64
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Release|x86.ActiveCfg = Release|Win32
+		{EC2018BD-8A63-4B19-AD45-86A55E9C2E30}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA80B38A-9109-4C12-9DBE-1D07B67DCE00}
+	EndGlobalSection
+EndGlobal
